@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdigital762-pixel.github.io/resources-7i64i7/sitemap.xml
